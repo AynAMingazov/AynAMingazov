@@ -1,22 +1,17 @@
-# Hi, I'm Ainur Mingazov 👋
+## Hi, I'm Ainur
 
-Information security student at **Kazan Federal University** (B.Sc., 2027) and freelance IT specialist.
-I build practical AI tools for small businesses — and I care about making them secure.
+Student of information security at Kazan Federal University (graduating 2027). Also I work as IT freelancer for small businesses, mostly AI bots, cameras and security.
 
-**Interests:** applied AI · AI agents · computer vision · intelligent transport · secure and trustworthy AI
+I like when technology gives real result, not just looks nice. Now I want to learn AI deeper, especially computer vision and AI for transport.
 
-## Projects
+### Projects
+- [ai-telegram-assistant](https://github.com/PremVPN/ai-telegram-assistant) - LLM bot for a car service, answers customers and makes bookings
+- [cctv-ai-monitoring](https://github.com/PremVPN/cctv-ai-monitoring) - YOLOv8 on usual cameras: night alerts, counting customers, zones
+- [AnonID](https://github.com/PremVPN/AnonID) - check access without personal data, my course project
 
-| Project | What it is | Stack |
-|---|---|---|
-| [**ai-telegram-assistant**](https://github.com/PremVPN/ai-telegram-assistant) | LLM assistant for a car-service company: answers within the real price list, books visits, escalates to a manager | Python, aiogram, LLM API, SQLite |
-| [**cctv-ai-monitoring**](https://github.com/PremVPN/cctv-ai-monitoring) | Computer vision on existing CCTV: night door alerts, customer counting, oil-dispenser and cash-desk monitoring, reconciliation with orders | YOLOv8-pose, ByteTrack, OpenCV |
-| [**AnonID**](https://github.com/PremVPN/AnonID) | Identity verification with signed tokens, without transferring personal data (course project, grade "excellent") | Python, Ed25519, SQLite |
+### Other
+- volunteer attache at BRICS summit in Kazan 2024
+- GO CTF Tatarstan
+- I run half marathons for my university
 
-## Experience
-- **Freelance IT specialist** (since 2025, individual entrepreneur in information security since 2026): AI agents, Telegram bots, video analytics, network and data security for small businesses
-- **Volunteer attaché**, BRICS Summit, Kazan 2024
-- **GO CTF Tatarstan** cybersecurity competition
-
-## Contacts
-📧 mainainur@mail.ru · Telegram [@AINURNET](https://t.me/AINURNET)
+Contacts: mainainur@mail.ru, telegram @AINURNET
